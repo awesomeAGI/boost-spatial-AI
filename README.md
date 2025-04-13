@@ -1,1 +1,1 @@
-# boost-spatialAI
+# Boosting Spatial-AI
